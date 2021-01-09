@@ -1,0 +1,10 @@
+#square area
+square_length = int(input("What is the length of the square?"))
+square_area = square_length**2
+print(square_area)
+
+#rectangle area 
+rec_length = int(input("What is the length of the rectangle?"))
+rec_height = int(input("What is the height of the rectangle?"))
+rec_area = rec_length*rec_height
+print(rec_area)
